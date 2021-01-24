@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1,CBC News Network (Geo)
+https://livecbcdai-i.akamaihd.net/hls/live/567245/event2/CBCNN/master6.m3u8
+#EXTINF:-1,CBC TV (Ontario) (Geo)
+https://cbclivedai5-i.akamaihd.net/hls/live/567235/event2/CBOT/master5.m3u8
+#EXTINF:-1,Global TV (Van BC) (Geo)
+https://glblvestu-f.akamaihd.net/i/glblvPSTu_1@80128/master.m3u8
+#EXTINF:-1,History CA (Test)
+http://185.246.209.109:8080/HISTORY2/index.m3u8
+#EXTINF:-1,CBC Vancouver
+https://cbclivedai2-i.akamaihd.net/hls/live/566968/event2/CBUT/master5.m3u8
+#EXTINF:-1,Hard Knocks TV
+https://vcnboutsports.teleosmedia.com/stream/boutsports/boutsports/playlist.m3u8
